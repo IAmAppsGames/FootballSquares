@@ -1,0 +1,2 @@
+# FootballSquares
+Football Squares Manager
