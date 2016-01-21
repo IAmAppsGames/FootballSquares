@@ -1,0 +1,21 @@
+[{
+  "id": "NybAE99dl",
+  "host": {
+    "id": "4JmZHc5dg",
+    "name": "Broncos"
+  },
+  "visitor": {
+    "id": "EJeYgB55Oe",
+    "name": "Patriots"
+  }
+}, {
+  "id": "VJ9AN5cOx",
+  "host": {
+    "id": "E1gaV59Ox",
+    "name": "Panthers"
+  },
+  "visitor": {
+    "id": "Vkup495ue",
+    "name": "Cardinals"
+  }
+}]
